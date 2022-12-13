@@ -1,0 +1,496 @@
+Composite operation 
+Computer Programming
+Digital certificate 
+First-class Function
+Graceful degradation
+Input method editor 
+Reporting directive 
+Second-level Domain 
+Serializable object 
+Speculative parsing 
+Time to interactive 
+Alignment container
+Application Context
+Document directive 
+Fallback alignment 
+Garbage collection 
+Netscape Navigator 
+Network throttling 
+Same-origin policy 
+Time to first byte 
+Accessibility tree
+Character encoding
+Denial of Service 
+First input delay 
+First interactive 
+lossy compression 
+Placeholder names 
+Regular expression
+Session Hijacking 
+Sticky activation 
+Table Wrapper Box 
+The Khronos Group 
+Alignment subject
+Callback function
+Continuous Media 
+CSS Object Model 
+gzip compression 
+Percent-encoding 
+Preflight request
+Rendering engine 
+Scroll container 
+DeprecatedXForms 
+Browsing context
+CSS preprocessor
+Deserialization 
+Developer Tools 
+Domain sharding 
+Fetch directive 
+Global variable 
+Layout viewport 
+Object reference
+Page prediction 
+privileged code 
+Resource Timing 
+Round Trip Time 
+Stacking context
+Type conversion 
+Visual Viewport 
+Web performance 
+Advance measure
+Canonical order
+Data structure 
+Dynamic typing 
+First CPU idle 
+Grid container 
+Intrinsic size 
+Local variable 
+Mozilla Firefox
+Page load time 
+Payload header 
+Pseudo-element 
+Quality values 
+Response header
+Secure Context 
+Snap positions 
+Table Grid Box 
+TCP slow start 
+Code splitting
+Cryptanalysis 
+Encapsulation 
+Flex Container
+Fragmentainer 
+General header
+Interpolation 
+Microsoft Edge
+non-normative 
+Opera Browser 
+Parent object 
+Request header
+Screen reader 
+Search engine 
+Serialization 
+Server Timing 
+Simple header 
+Specification 
+SQL Injection 
+State machine 
+Static method 
+Static typing 
+TCP handshake 
+Type coercion 
+Vendor Prefix 
+Web standards 
+World Wide Web
+Accessibility
+Character set
+Clickjacking 
+Compile time 
+Control flow 
+Cryptography 
+Entity header
+Fuzz testing 
+Global object
+Global scope 
+Google Chrome
+minification 
+Mobile First 
+Nullish value
+Payload body 
+Polymorphism 
+Pseudo-class 
+Raster image 
+Shallow copy 
+Style origin 
+Syntax error 
+Tree shaking 
+WebExtensions
+Apple Safari
+Asynchronous
+Bézier curve
+Bounding Box
+Card sorting
+Cipher suite
+Color wheel 
+Conditional 
+Constructor 
+First paint 
+Grid Column 
+Grid Tracks 
+Inheritance 
+Local scope 
+Localization
+Main thread 
+Proxy server
+Shadow tree 
+Sloppy mode 
+Speed index 
+Strict mode 
+Stringifier 
+Synchronous 
+Void element
+WebAssembly 
+WindowProxy 
+Abstraction
+Adobe Flash
+Code point 
+Decryption 
+Descriptor 
+Domain name
+DoS attack 
+Encryption 
+Enumerated 
+Firefox OS 
+frame rate 
+Grid Areas 
+Grid Lines 
+HTTP header
+Middleware 
+Modularity 
+Privileged 
+Quaternion 
+Robots.txt 
+Scrollport 
+Smoke Test 
+Stylesheet 
+Web server 
+Whitespace 
+Breadcrumb
+Call stack
+Ciphertext
+Code unit 
+Cross Axis
+CSS pixel 
+Deep copy 
+Dominator 
+ECMAScript
+Endianness
+Exception 
+Grid Axis 
+Grid Cell 
+Hyperlink 
+Hypertext 
+Idempotent
+Identifier
+IndexedDB 
+IP Address
+JavaScript
+Long task 
+Namespace 
+Normative 
+Parameter 
+Plaintext 
+Prerender 
+Pseudocode
+Recursion 
+Reference 
+Statement 
+view.end.User agent
+Validator 
+WebSockets
+Algorithm
+Attribute
+Bandwidth
+Cacheable
+Certified
+Character
+Constant 
+Database 
+Flex Item
+Grid Row 
+HTTPS RR 
+Immutable
+Instance 
+Lazy load
+Ligature 
+Main Axis
+MIME type
+Prefetch 
+Primitive
+Property 
+Prototype
+Selector 
+Semantics
+Signature
+Site map 
+Three js 
+undefined
+XInclude 
+Argument
+Baseline
+Closure 
+Copyleft
+Crawler 
+Expando 
+Favicon 
+firewall
+Function
+Gutters 
+Hoisting
+Hotlink 
+Houdini 
+Internet
+Keyword 
+Literal 
+Metadata
+OpenSSL 
+Operand 
+Operator
+Polyfill
+Promise 
+Protocol
+Routers 
+Trident 
+Variable
+Viewport
+ARPANET
+Boolean
+Browser
+CardDAV
+Compile
+Cookie 
+Digest 
+Doctype
+Domain 
+Element
+Engine 
+Entity 
+Flexbox
+Latency
+Locale 
+markup 
+MathML 
+Mutable
+Native 
+Node.js
+Number 
+OpenGL 
+Packet 
+Parser 
+Plugin 
+Presto 
+Syntax 
+Telnet 
+Thread 
+Unicode
+Usenet 
+WebDAV 
+WebIDL 
+WebKit 
+WebVTT 
+Wrapper
+XQuery 
+accent
+Base64
+beacon
+BigInt
+Brotli
+buffer
+CalDAV
+Canvas
+Chrome
+Cipher
+Class 
+Codec 
+Delta 
+Event 
+Gamut 
+Gecko 
+Glyph 
+Guard 
+HTML5 
+HTTP/2
+HTTP/3
+ICANN 
+Media 
+Method
+Mixin 
+Modem 
+Object
+Origin
+OWASP 
+Parse 
+Python
+Reflow
+Rsync 
+Server
+SMPTE 
+String
+Texel 
+Truthy
+Value 
+WebGL 
+WebRTC
+WHATWG
+XLink 
+XPath 
+Alpha
+Array
+ASCII
+Blink
+Block
+Cache
+caret
+CRLF 
+CRUD 
+CSRF 
+DTLS 
+DTMF 
+ECMA 
+EXIF 
+Falsy
+Flex 
+Grid 
+Hash 
+HMAC 
+Host 
+HPKP 
+HSTS 
+HTTPS
+I18N 
+IANA 
+IETF 
+IMAP 
+Jank 
+LGPL 
+Loop 
+mime 
+MitM 
+NNTP 
+Node 
+Pixel
+POP3 
+Port 
+RAIL 
+Repo 
+RTCP 
+Ruby 
+Scope
+SCTP 
+SGML 
+SISD 
+Site 
+Slug 
+SOAP 
+STUN 
+TOFU 
+TURN 
+Type 
+UTF-8
+UUID 
+VoIP 
+WCAG 
+WebM 
+WebP 
+XHTML
+XSLT 
+Ajax
+ALPN
+ARIA
+ARPA
+ATAG
+BiDi
+CMS 
+CORS
+DMZ 
+DNS 
+DOM 
+DSL 
+Fork
+FTU 
+Git 
+Head
+HTML
+HTTP
+ICE 
+IDE 
+IDL 
+IIFE
+IPv4
+IPv6
+IRC 
+ISO 
+ISP 
+ITU 
+Java
+JPEG
+JSON
+Key 
+LTR 
+NaN 
+NAT 
+Null
+OTA 
+P2P 
+PAC 
+QUIC
+RDF 
+REST
+RGB 
+RIL 
+RSS 
+RTF 
+RTL 
+RTP 
+Safe
+SCM 
+SDP 
+Shim
+SIMD
+SLD 
+SMTP
+SPA 
+SRI 
+SVN 
+TLD 
+TTL 
+UDP 
+URN 
+W3C 
+WAI 
+XHR 
+XML 
+API
+CDN
+CIA
+CSP
+CSS
+FTP
+GIF
+GPL
+GPU
+MVC
+OOP
+PDF
+PHP
+PNG
+SEO
+SQL
+SVG
+Tag
+TCP
+URI
+URL
+UX 
+UI
+

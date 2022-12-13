@@ -1,0 +1,7 @@
+Kim 100
+Park 200
+Lee 400
+Yoon 500
+Kang 600
+player22 40
+p2 350
